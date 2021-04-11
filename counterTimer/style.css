@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-top: -28rem;
+}
+.countdown-container{
+    display: flex;
+}
+.big-text{
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem;
+}
+.countdown-e1{
+    text-align: center;
+}
+.content-text{
+    text-align: center;
+}
